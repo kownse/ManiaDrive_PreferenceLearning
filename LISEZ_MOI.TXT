@@ -1,0 +1,53 @@
+Sdk Windows Raydium.
+
+	Raydium est un moteur de jeu: il se présente comme un ensemble de fonctions simples qui permettent de rendre l'écriture d'un jeu 3D plus souple et rapide.
+	http://raydium.org/
+
+	Le wiki de raydium (http://wiki.raydium.org/wiki/Raydium) contient la documentation des tutoriaux ainsi que quelques exemples d'application et de nombreuses informations.
+
+	Pour toutes questions utiliser les forums: http://memak.raydium.org/
+
+Utilisation du Sdk.
+
+Le Sdk se presente avec l'Ide CodeBlocks.
+
+	Pour lancer l'ide utiliser le "codeblock.bat".
+
+
+Blender.bat:
+
+	Blender.bat permet de copier les scripts d'import et d'export des fichiers au format Raydium dans le repertoire scripts de blender.
+	Attention ce script fonctionne avec une installation standard de blender (C:\Program Files\Blender Foundation\Blender\).
+
+
+compile_raydium_dll.bat
+	
+	Permet de générer la dll de raydium. Utile uniquement en cas de mise à jour des fichers de raydium ou suite à une modification.
+
+compile.bat
+
+	Permet de compiler une application.
+	Utiliser en ligne de commande par exemple:
+	compile test6
+	L'executable se trouve dans le repertoire bin (test6.exe).
+
+
+compile_all.bat
+
+	Permet de construire automatiquement la dll de raydium ainsi que l'ensemble des programmes de tests.
+	Les programmes se trouvent dans le repertoire bin.
+
+
+
+cleanup.bat
+
+	Nettoyage des fichiers temporaires du sdk (fichiers objets et autre).
+
+update bin.bat
+
+	Copie les scripts php (mania drive, train ...) dans le repertoire bin (a utiliser en cas de mise à jour du svn).
+	Copie les fichiers de traduction (Locale).
+
+Le repertoire tests contient un exemple de projet et environnement de travail permettant de tester et debugger des application raydium si vous le souahitez.
+	Ouvrir appli_dll workspace.
+	Modifier le projet raydium application en fonction de vos besoins.

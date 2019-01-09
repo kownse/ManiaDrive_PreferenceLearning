@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="define.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="946" topLine="30" />
+	</File>
+	<File name="define.h" open="1" top="1" tabpos="1">
+		<Cursor position="1811" topLine="22" />
+	</File>
+	<File name="func.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="4428" topLine="158" />
+	</File>
+	<File name="func.h" open="1" top="0" tabpos="9">
+		<Cursor position="1196" topLine="7" />
+	</File>
+	<File name="include\CAnalyserMgr.h" open="0" top="0" tabpos="9">
+		<Cursor position="1922" topLine="39" />
+	</File>
+	<File name="include\CAngleAnalyser.h" open="0" top="0" tabpos="10">
+		<Cursor position="622" topLine="0" />
+	</File>
+	<File name="include\CBasicAnalyser.h" open="0" top="0" tabpos="23">
+		<Cursor position="576" topLine="0" />
+	</File>
+	<File name="include\CCollisionAnalyser.h" open="1" top="0" tabpos="6">
+		<Cursor position="1047" topLine="7" />
+	</File>
+	<File name="include\CContinTimer.h" open="0" top="0" tabpos="16">
+		<Cursor position="444" topLine="0" />
+	</File>
+	<File name="include\CIntrptTimer.h" open="0" top="0" tabpos="15">
+		<Cursor position="44" topLine="0" />
+	</File>
+	<File name="include\COriAnalyserMgr.h" open="1" top="0" tabpos="5">
+		<Cursor position="678" topLine="0" />
+	</File>
+	<File name="include\CRecorderMgr.h" open="0" top="0" tabpos="13">
+		<Cursor position="222" topLine="0" />
+	</File>
+	<File name="include\CTrackAnalyser.h" open="1" top="0" tabpos="3">
+		<Cursor position="481" topLine="0" />
+	</File>
+	<File name="include\CUserInputAnalyser.h" open="0" top="0" tabpos="6">
+		<Cursor position="1076" topLine="4" />
+	</File>
+	<File name="include\CVectorRecorder.h" open="0" top="0" tabpos="12">
+		<Cursor position="293" topLine="0" />
+	</File>
+	<File name="include\IOriginalAnalyser.h" open="0" top="0" tabpos="5">
+		<Cursor position="112" topLine="0" />
+	</File>
+	<File name="include\IRecorder.h" open="0" top="0" tabpos="9">
+		<Cursor position="215" topLine="0" />
+	</File>
+	<File name="include\ITimer.h" open="0" top="0" tabpos="8">
+		<Cursor position="494" topLine="0" />
+	</File>
+	<File name="include\ITimerListener.h" open="0" top="0" tabpos="4">
+		<Cursor position="211" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="571" topLine="0" />
+	</File>
+	<File name="pre_analyse.h" open="1" top="0" tabpos="7">
+		<Cursor position="463" topLine="1" />
+	</File>
+	<File name="src\CAngleAnalyser.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="2402" topLine="63" />
+	</File>
+	<File name="src\CBasicAnalyser.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1675" topLine="26" />
+	</File>
+	<File name="src\CCollisionAnalyser.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="4607" topLine="118" />
+	</File>
+	<File name="src\CContinTimer.cpp" open="0" top="0" tabpos="17">
+		<Cursor position="246" topLine="0" />
+	</File>
+	<File name="src\CIntrptTimer.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="1078" topLine="34" />
+	</File>
+	<File name="src\COriAnalyserMgr.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="1823" topLine="47" />
+	</File>
+	<File name="src\CTrackAnalyser.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="4953" topLine="175" />
+	</File>
+	<File name="src\CUserInputAnalyser.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2060" topLine="36" />
+	</File>
+	<File name="src\CVectorRecorder.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="295" topLine="0" />
+	</File>
+	<File name="src\IOriginalAnalyser.cpp" open="0" top="0" tabpos="18">
+		<Cursor position="531" topLine="0" />
+	</File>
+	<File name="src\IRecorder.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="124" topLine="0" />
+	</File>
+	<File name="src\ITimer.cpp" open="0" top="0" tabpos="25">
+		<Cursor position="97" topLine="0" />
+	</File>
+	<File name="src\ITimerListener.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="21" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

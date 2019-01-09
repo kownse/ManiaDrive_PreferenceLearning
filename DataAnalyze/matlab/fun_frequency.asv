@@ -1,0 +1,31 @@
+funmat = cell2mat(fun);
+funmap = zeros(5, 5);
+funnum = zeros(5,5);
+
+
+[m,n] = size(funmat);
+%{计算累计值}
+for i = 1:m
+    funmap(funmat(i,1)+1,funmat(i,2)+1) = funmap(funmat(i,1)+1,funmat(i,2)+1) + funmat(i,3);
+end
+%{计算数量}
+
+for i = 1:m
+    funnum(funmat(i,1)+1,funmat(i,2)+1) = funnum(funmat(i,1)+1,funmat(i,2)+1) + 1;
+end
+%{计算平均数}
+
+[M,N] = size(funavg);
+for i=1:M
+    for j=1:N
+        funavg(i,j) = funmap(i,j) / funnum(i,j);
+    end
+end
+
+x = 1:1:5;
+y = 1:1:5;
+[X,Y] = meshgrid(x,y);
+%{
+surface(X,Y,funavg);
+}
+

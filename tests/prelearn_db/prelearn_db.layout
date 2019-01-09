@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="globle.h" open="0" top="0" tabpos="4">
+		<Cursor position="199" topLine="0" />
+	</File>
+	<File name="include\CDBTransformer.h" open="0" top="0" tabpos="11">
+		<Cursor position="76" topLine="0" />
+	</File>
+	<File name="include\CSQLiteLoader.h" open="0" top="0" tabpos="10">
+		<Cursor position="2784" topLine="0" />
+	</File>
+	<File name="include\IDBLoader.h" open="0" top="0" tabpos="9">
+		<Cursor position="66" topLine="0" />
+	</File>
+	<File name="include\IDBSaver.h" open="0" top="0" tabpos="8">
+		<Cursor position="64" topLine="0" />
+	</File>
+	<File name="include\MySQLSaver.h" open="1" top="0" tabpos="2">
+		<Cursor position="680" topLine="0" />
+	</File>
+	<File name="include\SQLiteSaver.h" open="0" top="0" tabpos="6">
+		<Cursor position="1034" topLine="0" />
+	</File>
+	<File name="include\utility.h" open="0" top="0" tabpos="5">
+		<Cursor position="338" topLine="0" />
+	</File>
+	<File name="pre_db.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="433" topLine="0" />
+	</File>
+	<File name="pre_db.h" open="0" top="0" tabpos="13">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="src\CDBTransformer.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1119" topLine="18" />
+	</File>
+	<File name="src\CSQLiteLoader.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="19050" topLine="0" />
+	</File>
+	<File name="src\IDBLoader.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src\IDBSaver.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="108" topLine="0" />
+	</File>
+	<File name="src\MySQLSaver.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="64985" topLine="1887" />
+	</File>
+	<File name="src\SQLiteSaver.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2889" topLine="86" />
+	</File>
+	<File name="src\utility.cpp" open="0" top="0" tabpos="38">
+		<Cursor position="825" topLine="31" />
+	</File>
+</CodeBlocks_layout_file>

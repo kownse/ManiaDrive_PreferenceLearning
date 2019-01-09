@@ -1,0 +1,23 @@
+feelmat = cell2mat(feel);
+
+%{变量定义}
+feeladd = zeros(5,5,6);
+feelnum = zeros(5,5,6);
+feelavg = zeros(5,5,6);
+
+[m,n] = size(feelmat);
+for i=1:m
+    feeladd(feelmat(i,1)+1,feelmat(i,2)+1,feelmat(i,3)+1) = feeladd(feelmat(i,1)+1,feelmat(i,2)+1,feelmat(i,3)+1) + feelmat(i,4);
+    feelnum(feelmat(i,1)+1,feelmat(i,2)+1,feelmat(i,3)+1) = feelnum(feelmat(i,1)+1,feelmat(i,2)+1,feelmat(i,3)+1) + 1;
+end
+
+[L,M,N]=size(feelavg);
+for i=1:L
+    for j=1:M
+        for k=1:N
+            feelavg(i,j,k) = feeladd(i,j,k) / feelnum(i,j,k);
+        end
+    end
+end
+
+anxiet

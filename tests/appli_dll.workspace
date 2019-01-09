@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="raydium_appli.cbp">
+			<Depends filename="raydium_dll.cbp" />
+		</Project>
+		<Project filename="raydium_dll.cbp" />
+		<Project filename="mania_server/mania_server.cbp" />
+		<Project filename="total_server/total_server.cbp" />
+		<Project filename="sqlite3/sqlite3.cbp" />
+		<Project filename="sqlite_shell/sqlite_shell.cbp" />
+		<Project filename="prelearn_db/prelearn_db.cbp" />
+		<Project filename="DBTransform/DBTransform.cbp" active="1" />
+		<Project filename="mania2/mania2.cbp" />
+		<Project filename="prelearn_analyse/prelearn_analyse.cbp" />
+		<Project filename="TrackAnalyse/TrackAnalyse.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

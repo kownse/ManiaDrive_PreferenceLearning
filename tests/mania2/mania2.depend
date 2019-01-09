@@ -1,0 +1,1285 @@
+# depslib dependency file v1.0
+1307604863 source:g:\game\maniadrive\maniadrive_custom\raydium\mania2.c
+	"raydium/index.h"
+	"mania.h"
+
+1259062186 g:\game\maniadrive\maniadrive_custom\raydium\raydium\index.c
+	"main.c"
+	"myglut.c"
+	"log.c"
+	"atexit.c"
+	"signal.c"
+	"math.c"
+	"random.c"
+	"timecall.c"
+	"profile.c"
+	"parser.c"
+	"fog.c"
+	"window.c"
+	"capture.c"
+	"clear.c"
+	"background.c"
+	"light.c"
+	"key.c"
+	"mouse.c"
+	"joy.c"
+	"texture.c"
+	"shadow.c"
+	"render.c"
+	"particle2.c"
+	"sound.c"
+	"callback.c"
+	"normal.c"
+	"vertex.c"
+	"osd.c"
+	"hdr.c"
+	"lensflare.c"
+	"shader.c"
+	"register.c"
+	"file.c"
+	"php.c"
+	"rayphp.c"
+	"path.c"
+	"console.c"
+	"gui.c"
+	"land.c"
+	"sky.c"
+	"internal.c"
+	"file_tri.c"
+	"camera.c"
+	"object.c"
+	"cli.c"
+	"network.c"
+	"init.c"
+	"ode.c"
+	"sprites.c"
+	"live.c"
+	"video.c"
+	"web.c"
+	"reg_api.c"
+	"atexit.c"
+	"network.h"
+	"log.c"
+	"math.c"
+	"random.c"
+	"timecall.c"
+	"parser.c"
+	"cli.c"
+	"network.c"
+	"register.c"
+	"file.c"
+	"php.c"
+	"rayphp.c"
+	"path.c"
+	"console.c"
+	"web.c"
+	"index.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\main.c
+	"common.h"
+
+1293021337 g:\game\maniadrive\maniadrive_custom\raydium\raydium\common.h
+	"windows.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<GL/glew.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	"wrapper-opengles.c"
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	<time.h>
+	<memory.h>
+	<string.h>
+	<sys/types.h>
+	<dirent.h>
+	<signal.h>
+	<stdarg.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alut.h>
+	<vorbis/vorbisfile.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<linux/joystick.h>
+	<sys/ioctl.h>
+	<linux/rtc.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<pwd.h>
+	<linux/if.h>
+	<linux/sockios.h>
+	<X11/Xmd.h>
+	<errno.h>
+	"config.h"
+	"php.h"
+	"php_version.h"
+	"php_globals.h"
+	"php_variables.h"
+	"zend_modules.h"
+	"SAPI.h"
+	"php.h"
+	"zend.h"
+	"zend_extensions.h"
+	"php_ini.h"
+	"php_globals.h"
+	"php_main.h"
+	"fopen_wrappers.h"
+	"ext/standard/php_standard.h"
+	<jpeglib.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\gl\glew.h
+	<stddef.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\wrapper-opengles.c
+	<OpenGLES/ES1/gl.h>
+	<OpenGL/glu.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\al\al.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\al\alut.h
+	<alc.h>
+	<al.h>
+	<OpenAL/alc.h>
+	<OpenAL/al.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\al\alc.h
+
+1304955261 g:\game\maniadrive\maniadrive_custom\include\vorbis\vorbisfile.h
+	<stdio.h>
+	"codec.h"
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\vorbis\codec.h
+	<ogg/ogg.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ogg\ogg.h
+	<ogg/os_types.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ogg\os_types.h
+	<_G_config.h>
+	<sys/types.h>
+	<sys/types.h>
+	<inttypes.h>
+	<sys/types.h>
+	<ogg/config_types.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ogg\config_types.h
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\config.h
+
+1248038390 g:\game\maniadrive\maniadrive_custom\include\php\main\php.h
+	<dmalloc.h>
+	"php_version.h"
+	"zend.h"
+	"zend_qsort.h"
+	"php_compat.h"
+	"zend_API.h"
+	"tsrm_win32.h"
+	"win95nt.h"
+	"php_regex.h"
+	<assert.h>
+	<unix.h>
+	<alloca.h>
+	<build-defs.h>
+	<stdlib.h>
+	<ctype.h>
+	<unistd.h>
+	<stdarg.h>
+	<sys/varargs.h>
+	"zend_hash.h"
+	"php3_compat.h"
+	"zend_alloc.h"
+	"zend_stack.h"
+	<string.h>
+	"safe_mode.h"
+	"regex/regex_extra.h"
+	"win32/param.h"
+	<pwd.h>
+	<sys/param.h>
+	<limits.h>
+	"snprintf.h"
+	"spprintf.h"
+	"main/php_output.h"
+	"php_streams.h"
+	"php_memory_streams.h"
+	"fopen_wrappers.h"
+	"tsrm_virtual_cwd.h"
+	"zend_constants.h"
+	"php_reentrancy.h"
+
+1235573810 g:\game\maniadrive\maniadrive_custom\include\php\main\php_version.h
+
+1248039182 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend.h
+	<stdio.h>
+	"zend_config.w32.h"
+	<zend_config.h>
+	<zend_config.h>
+	<zend_config.h>
+	<unix.h>
+	<stdarg.h>
+	<dlfcn.h>
+	<mach-o/dyld.h>
+	<alloca.h>
+	"zend_errors.h"
+	"zend_alloc.h"
+	"zend_types.h"
+	<limits.h>
+	"zend_hash.h"
+	"zend_ts_hash.h"
+	"zend_llist.h"
+	"zend_object_handlers.h"
+	"zend_iterators.h"
+	"zend_stream.h"
+	"zend_operators.h"
+	"zend_variables.h"
+
+1248038209 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_config.w32.h
+	<../main/config.w32.h>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<windows.h>
+	<float.h>
+
+1184175416 g:\game\maniadrive\maniadrive_custom\include\php\main\config.w32.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_errors.h
+
+1232890958 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_alloc.h
+	<stdio.h>
+	"../TSRM/TSRM.h"
+	"zend.h"
+
+1230722250 g:\game\maniadrive\maniadrive_custom\include\php\tsrm\tsrm.h
+	"tsrm_config.w32.h"
+	<tsrm_config.h>
+	<windows.h>
+	<shellapi.h>
+	<pth.h>
+	<pthread.h>
+	<st.h>
+	<kernel/OS.h>
+	<TLS.h>
+
+1248038218 g:\game\maniadrive\maniadrive_custom\include\php\tsrm\tsrm_config.w32.h
+	<malloc.h>
+	<stdlib.h>
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_types.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_hash.h
+	<sys/types.h>
+	"zend.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_ts_hash.h
+	"zend.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_llist.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_object_handlers.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_iterators.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_stream.h
+
+1234708276 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_operators.h
+	<errno.h>
+	<math.h>
+	<assert.h>
+	<ieeefp.h>
+	"zend_strtod.h"
+	"ext/bcmath/libbcmath/src/bcmath.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_strtod.h
+	<zend.h>
+
+1230722254 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_variables.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_qsort.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_compat.h
+	"config.w32.h"
+	<php_config.h>
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_api.h
+	"zend_modules.h"
+	"zend_list.h"
+	"zend_operators.h"
+	"zend_variables.h"
+	"zend_execute.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_modules.h
+	"zend.h"
+	"zend_compile.h"
+
+1232532946 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_compile.h
+	"zend.h"
+	<stdarg.h>
+	"zend_llist.h"
+	"zend_globals.h"
+	"zend_vm_opcodes.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_globals.h
+	<setjmp.h>
+	"zend_globals_macros.h"
+	"zend_stack.h"
+	"zend_ptr_stack.h"
+	"zend_hash.h"
+	"zend_llist.h"
+	"zend_objects.h"
+	"zend_objects_API.h"
+	"zend_modules.h"
+	"zend_multibyte.h"
+	"zend_compile.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_globals_macros.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_stack.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_ptr_stack.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_objects.h
+	"zend.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_objects_api.h
+	"zend.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_multibyte.h
+
+1230722254 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_vm_opcodes.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_list.h
+	"zend_hash.h"
+	"zend_globals.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_execute.h
+	"zend_compile.h"
+	"zend_hash.h"
+	"zend_operators.h"
+	"zend_variables.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\tsrm\tsrm_win32.h
+	"TSRM.h"
+	<windows.h>
+
+1248038816 g:\game\maniadrive\maniadrive_custom\include\php\main\win95nt.h
+	<io.h>
+	<malloc.h>
+	<direct.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_regex.h
+	"regex/regex_extra.h"
+	"regex/regex.h"
+	"regex/regex_extra.h"
+	<regex.h>
+
+1035465288 g:\game\maniadrive\maniadrive_custom\include\php\regex\regex_extra.h
+
+942438472 g:\game\maniadrive\maniadrive_custom\include\php\regex\regex.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php3_compat.h
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\safe_mode.h
+
+923519112 g:\game\maniadrive\maniadrive_custom\include\php\win32\param.h
+
+1248039548 g:\game\maniadrive\maniadrive_custom\include\php\main\snprintf.h
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\spprintf.h
+	"snprintf.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_output.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_streams.h
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"streams/php_stream_context.h"
+	"streams/php_stream_filter_api.h"
+	"streams/php_stream_transport.h"
+	"streams/php_stream_plain_wrapper.h"
+	"streams/php_stream_userspace.h"
+	"streams/php_stream_mmap.h"
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\streams\php_stream_context.h
+
+1231434222 g:\game\maniadrive\maniadrive_custom\include\php\main\streams\php_stream_filter_api.h
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\streams\php_stream_transport.h
+	<sys/socket.h>
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\streams\php_stream_plain_wrapper.h
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\streams\php_stream_userspace.h
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\main\streams\php_stream_mmap.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_memory_streams.h
+	"php_streams.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\fopen_wrappers.h
+	"php_globals.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_globals.h
+	"zend_globals.h"
+
+1251749483 g:\game\maniadrive\maniadrive_custom\include\php\tsrm\tsrm_virtual_cwd.h
+	"TSRM.h"
+	"tsrm_config_common.h"
+	<sys/types.h>
+	<sys/stat.h>
+	<ctype.h>
+	<utime.h>
+	<stdarg.h>
+	<unistd.h>
+	<direct.h>
+	<errno.h>
+	<sys/utime.h>
+	<dirent.h>
+	<dirent.h>
+
+1171566708 g:\game\maniadrive\maniadrive_custom\include\php\tsrm\tsrm_config_common.h
+	"tsrm_config.w32.h"
+	<tsrm_config.h>
+	<sys/param.h>
+	<alloca.h>
+	<unistd.h>
+	<limits.h>
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_constants.h
+	"zend_globals.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_reentrancy.h
+	"php.h"
+	<sys/types.h>
+	<dirent.h>
+	<time.h>
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_variables.h
+	"php.h"
+	"SAPI.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\sapi.h
+	"zend.h"
+	"zend_llist.h"
+	"zend_operators.h"
+	"win95nt.h"
+	<sys/stat.h>
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_extensions.h
+	"zend_compile.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_ini.h
+	"zend_ini.h"
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_ini.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_main.h
+	"zend_globals.h"
+	"php_globals.h"
+	"SAPI.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_standard.h
+	"basic_functions.h"
+	"php_math.h"
+	"php_string.h"
+	"base64.h"
+	"php_dir.h"
+	"dns.h"
+	"reg.h"
+	"php_mail.h"
+	"md5.h"
+	"sha1.h"
+	"html.h"
+	"exec.h"
+	"file.h"
+	"php_ext_syslog.h"
+	"php_filestat.h"
+	"php_browscap.h"
+	"pack.h"
+	"datetime.h"
+	"microtime.h"
+	"url.h"
+	"pageinfo.h"
+	"cyr_convert.h"
+	"php_link.h"
+	"fsock.h"
+	"php_image.h"
+	"php_iptc.h"
+	"info.h"
+	"uniqid.h"
+	"php_var.h"
+	"quot_print.h"
+	"dl.h"
+	"php_crypt.h"
+	"head.h"
+	"php_lcg.h"
+	"php_metaphone.h"
+	"php_output.h"
+	"php_array.h"
+	"php_assert.h"
+	"php_versioning.h"
+	"php_ftok.h"
+	"php_type.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\basic_functions.h
+	<sys/stat.h>
+	<wchar.h>
+	"php_filestat.h"
+	"zend_highlight.h"
+	"url_scanner.h"
+	"url_scanner_ex.h"
+
+1248038895 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_filestat.h
+
+1230722252 g:\game\maniadrive\maniadrive_custom\include\php\zend\zend_highlight.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\url_scanner.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\url_scanner_ex.h
+	"php_smart_str_public.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_smart_str_public.h
+	<sys/types.h>
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_math.h
+	<math.h>
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_string.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\base64.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_dir.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\dns.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\reg.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_mail.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\md5.h
+	"ext/standard/basic_functions.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\sha1.h
+	"ext/standard/basic_functions.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\html.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\exec.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\file.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_ext_syslog.h
+	"php_syslog.h"
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\main\php_syslog.h
+	"win32/syslog.h"
+	<php_config.h>
+	<syslog.h>
+
+1230722268 g:\game\maniadrive\maniadrive_custom\include\php\win32\syslog.h
+	<windows.h>
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_browscap.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\pack.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\datetime.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\microtime.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\url.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\pageinfo.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\cyr_convert.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_link.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\fsock.h
+	"file.h"
+	"php_network.h"
+
+1248038683 g:\game\maniadrive\maniadrive_custom\include\php\main\php_network.h
+	<ws2tcpip.h>
+	<wspiapi.h>
+	<netinet/in.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<stddef.h>
+	<sys/poll.h>
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_image.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_iptc.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\info.h
+
+1230722266 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\uniqid.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_var.h
+	"ext/standard/php_smart_str_public.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\quot_print.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\dl.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_crypt.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\head.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_lcg.h
+	"ext/standard/basic_functions.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_metaphone.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_array.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_assert.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_versioning.h
+	"ext/standard/basic_functions.h"
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_ftok.h
+
+1230722264 g:\game\maniadrive\maniadrive_custom\include\php\ext\standard\php_type.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1205532922 g:\game\maniadrive\maniadrive_custom\include\jconfig.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\jmorecfg.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\jerror.h
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut.c
+	"index.h"
+	"headers/myglut.h"
+	"myglut.h"
+	"myglut-win32.c"
+	"myglut-macosx.c"
+	"myglut-iphoneos.c"
+	"myglut-x11.c"
+
+1307606084 g:\game\maniadrive\maniadrive_custom\raydium\raydium\index.h
+	"main.h"
+	"headers/myglut.h"
+	"headers/log.h"
+	"headers/atexit.h"
+	"headers/signal.h"
+	"headers/math.h"
+	"headers/random.h"
+	"headers/timecall.h"
+	"headers/profile.h"
+	"headers/parser.h"
+	"headers/fog.h"
+	"headers/window.h"
+	"headers/capture.h"
+	"headers/clear.h"
+	"headers/background.h"
+	"headers/light.h"
+	"headers/key.h"
+	"headers/mouse.h"
+	"headers/joy.h"
+	"headers/texture.h"
+	"headers/shadow.h"
+	"headers/render.h"
+	"headers/particle2.h"
+	"headers/sound.h"
+	"headers/callback.h"
+	"headers/normal.h"
+	"headers/vertex.h"
+	"headers/osd.h"
+	"headers/hdr.h"
+	"headers/lensflare.h"
+	"headers/shader.h"
+	"headers/register.h"
+	"headers/php.h"
+	"headers/rayphp.h"
+	"headers/console.h"
+	"headers/gui.h"
+	"headers/land.h"
+	"headers/sky.h"
+	"headers/internal.h"
+	"headers/file.h"
+	"headers/path.h"
+	"headers/file_tri.h"
+	"headers/camera.h"
+	"headers/object.h"
+	"headers/cli.h"
+	"headers/network.h"
+	"headers/init.h"
+	"headers/ode.h"
+	"headers/live.h"
+	"headers/video.h"
+	"headers/web.h"
+	"headers/reg_api.h"
+	"headers/sprites.h"
+	"headers/atexit.h"
+	"network.h"
+	"headers/log.h"
+	"headers/math.h"
+	"headers/random.h"
+	"headers/timecall.h"
+	"headers/parser.h"
+	"headers/cli.h"
+	"headers/network.h"
+	"headers/file.h"
+	"headers/path.h"
+	"headers/register.h"
+	"headers/rayphp.h"
+	"headers/php.h"
+	"headers/console.h"
+	"headers/web.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\main.h
+	"common.h"
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\myglut.h
+	"../myglut.h"
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut.h
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\log.h
+
+1221329435 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\atexit.h
+	"../atexit.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\atexit.h
+
+1220804273 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\signal.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\math.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\random.h
+
+1231509613 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\timecall.h
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\profile.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\parser.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\fog.h
+
+1221861860 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\window.h
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\capture.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\clear.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\background.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\light.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\key.h
+
+1251625481 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\mouse.h
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\joy.h
+
+1254510776 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\texture.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\shadow.h
+	"../shadow.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\shadow.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\render.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\particle2.h
+	"../particle2.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\particle2.h
+
+1251625481 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\sound.h
+
+1211491348 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\callback.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\normal.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\vertex.h
+
+1255287108 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\osd.h
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\hdr.h
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\lensflare.h
+
+1231509613 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\shader.h
+	"../shader.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\shader.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\register.h
+
+1251625480 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\php.h
+	"../php_wrappers.h"
+
+1251625481 g:\game\maniadrive\maniadrive_custom\raydium\raydium\php_wrappers.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\rayphp.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\console.h
+
+1231509613 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\gui.h
+	"../gui.h"
+
+1309416140 g:\game\maniadrive\maniadrive_custom\raydium\raydium\gui.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\land.h
+
+1223830616 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\sky.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\internal.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\file.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\path.h
+	"../path.h"
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\path.h
+
+1231509613 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\file_tri.h
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\camera.h
+
+1207945345 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\object.h
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\cli.h
+
+1293191763 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\network.h
+
+1220360391 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\init.h
+
+1305798276 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\ode.h
+	"../ode.h"
+	"ode_net.h"
+
+1306209164 g:\game\maniadrive\maniadrive_custom\raydium\raydium\ode.h
+	"ode/include/ode/ode.h"
+	"../ode/include/ode/ode.h"
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\ode.h
+	<ode/config.h>
+	<ode/compatibility.h>
+	<ode/common.h>
+	<ode/contact.h>
+	<ode/error.h>
+	<ode/memory.h>
+	<ode/odemath.h>
+	<ode/matrix.h>
+	<ode/timer.h>
+	<ode/rotation.h>
+	<ode/mass.h>
+	<ode/misc.h>
+	<ode/objects.h>
+	<ode/odecpp.h>
+	<ode/collision_space.h>
+	<ode/collision.h>
+	<ode/odecpp_collision.h>
+	<ode/export-dif.h>
+
+1259159953 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\ode_net.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\live.h
+	"../live.h"
+
+1259062186 g:\game\maniadrive\maniadrive_custom\raydium\raydium\live.h
+	<linux/types.h>
+	<linux/videodev.h>
+	<sys/mman.h>
+	<vfw.h>
+
+1248037671 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\video.h
+	"../video.h"
+
+1198905268 g:\game\maniadrive\maniadrive_custom\raydium\raydium\video.h
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\web.h
+	"../web.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\web.h
+
+1198905266 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\reg_api.h
+
+1221336236 g:\game\maniadrive\maniadrive_custom\raydium\raydium\headers\sprites.h
+
+1304993316 g:\game\maniadrive\maniadrive_custom\raydium\raydium\network.h
+	"php_wrappers.h"
+
+1248037672 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut-win32.c
+	"headers/myglut.h"
+	<windows.h>
+
+1252070000 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut-macosx.c
+	"headers/myglut.h"
+	<Carbon/Carbon.h>
+	<AGL/agl.h>
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut-iphoneos.c
+	"headers/myglut.h"
+	"myglut-iphoneos.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut-iphoneos.h
+	"config.h"
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\myglut-x11.c
+	"headers/myglut.h"
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	<X11/cursorfont.h>
+	<X11/Xlib.h>
+	<X11/Xatom.h>
+	<GL/glx.h>
+	<X11/extensions/Xinerama.h>
+	<X11/extensions/dpms.h>
+	<X11/Xm/MwmUtil.h>
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\log.c
+	"index.h"
+	"headers/log.h"
+
+1304993322 g:\game\maniadrive\maniadrive_custom\raydium\raydium\atexit.c
+	"index.h"
+	"headers/atexit.h"
+	"atexit.h"
+
+1248037672 g:\game\maniadrive\maniadrive_custom\raydium\raydium\signal.c
+	"index.h"
+	"headers/signal.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\math.c
+	"index.h"
+	"headers/math.h"
+	"headers/shadow.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\random.c
+	"index.h"
+	"headers/random.h"
+
+1304993315 g:\game\maniadrive\maniadrive_custom\raydium\raydium\timecall.c
+	"index.h"
+	"headers/timecall.h"
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\profile.c
+	"index.h"
+	"headers/profile.h"
+
+1292499383 g:\game\maniadrive\maniadrive_custom\raydium\raydium\parser.c
+	"index.h"
+	"headers/parser.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\fog.c
+	"index.h"
+	"headers/fog.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\window.c
+	"index.h"
+	"headers/window.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\capture.c
+	"index.h"
+	"headers/capture.h"
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\clear.c
+	"index.h"
+	"headers/clear.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\background.c
+	"index.h"
+	"headers/background.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\light.c
+	"index.h"
+	"headers/light.h"
+
+1258922169 g:\game\maniadrive\maniadrive_custom\raydium\raydium\key.c
+	"index.h"
+	"headers/key.h"
+
+1251625481 g:\game\maniadrive\maniadrive_custom\raydium\raydium\mouse.c
+	"index.h"
+	"headers/mouse.h"
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\joy.c
+	"index.h"
+	"headers/joy.h"
+	<mmsystem.h>
+	<unistd.h>
+	<ctype.h>
+	<sysexits.h>
+	<mach/mach.h>
+	<mach/mach_error.h>
+	<IOKit/IOKitLib.h>
+	<IOKit/IOCFPlugIn.h>
+	<Kernel/IOKit/hidsystem/IOHIDUsageTables.h>
+	<IOKit/hid/IOHIDLib.h>
+	<IOKit/hid/IOHIDKeys.h>
+	<CoreFoundation/CoreFoundation.h>
+	<Carbon/Carbon.h>
+	<ForceFeedback/ForceFeedback.h>
+	<ForceFeedback/ForceFeedbackConstants.h>
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\texture.c
+	"index.h"
+	"headers/texture.h"
+	"live.h"
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\shadow.c
+	"index.h"
+	"headers/shadow.h"
+	"shadow.h"
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\render.c
+	"index.h"
+	"headers/render.h"
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\particle2.c
+	"index.h"
+	"headers/particle2.h"
+	"particle2.h"
+
+1251625481 g:\game\maniadrive\maniadrive_custom\raydium\raydium\sound.c
+	"index.h"
+	"headers/sound.h"
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\callback.c
+	"index.h"
+	"headers/callback.h"
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\normal.c
+	"index.h"
+	"headers/normal.h"
+
+1287673906 g:\game\maniadrive\maniadrive_custom\raydium\raydium\vertex.c
+	"index.h"
+	"headers/vertex.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\osd.c
+	"index.h"
+	"headers/osd.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\hdr.c
+	"index.h"
+	"headers/hdr.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\lensflare.c
+	"index.h"
+	"headers/lensflare.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\shader.c
+	"index.h"
+	"headers/shader.h"
+	"shader.h"
+
+1304993320 g:\game\maniadrive\maniadrive_custom\raydium\raydium\register.c
+	"index.h"
+	"headers/register.h"
+
+1304993361 g:\game\maniadrive\maniadrive_custom\raydium\raydium\file.c
+	"index.h"
+	"headers/file.h"
+	"headers/rayphp.h"
+
+1304993362 g:\game\maniadrive\maniadrive_custom\raydium\raydium\php.c
+	"index.h"
+	"headers/php.h"
+	"php_wrappers.h"
+
+1304993363 g:\game\maniadrive\maniadrive_custom\raydium\raydium\rayphp.c
+	"index.h"
+	"headers/rayphp.h"
+
+1290448979 g:\game\maniadrive\maniadrive_custom\raydium\raydium\path.c
+	"index.h"
+	"headers/path.h"
+	"path.h"
+
+1304993363 g:\game\maniadrive\maniadrive_custom\raydium\raydium\console.c
+	"index.h"
+	"headers/console.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\gui.c
+	"index.h"
+	"headers/gui.h"
+	"gui.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\land.c
+	"index.h"
+	"headers/land.h"
+
+1231509613 g:\game\maniadrive\maniadrive_custom\raydium\raydium\sky.c
+	"index.h"
+	"headers/sky.h"
+
+1220360392 g:\game\maniadrive\maniadrive_custom\raydium\raydium\internal.c
+	"index.h"
+	"headers/internal.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\file_tri.c
+	"index.h"
+	"headers/file_tri.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\camera.c
+	"index.h"
+	"headers/camera.h"
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\object.c
+	"index.h"
+	"headers/object.h"
+	"object.h"
+
+1287673907 g:\game\maniadrive\maniadrive_custom\raydium\raydium\object.h
+
+1304993356 g:\game\maniadrive\maniadrive_custom\raydium\raydium\cli.c
+	"index.h"
+	"headers/cli.h"
+
+1304993319 g:\game\maniadrive\maniadrive_custom\raydium\raydium\network.c
+	"index.h"
+	"headers/network.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\init.c
+	"index.h"
+	"headers/init.h"
+
+1306208159 g:\game\maniadrive\maniadrive_custom\raydium\raydium\ode.c
+	"index.h"
+	"headers/ode.h"
+	"ode.h"
+	"ode_net.c"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\ode_net.c
+
+1221336236 g:\game\maniadrive\maniadrive_custom\raydium\raydium\sprites.c
+	"index.h"
+	"headers/sprites.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\live.c
+	"index.h"
+	"headers/live.h"
+	"live.h"
+
+1304955262 g:\game\maniadrive\maniadrive_custom\raydium\raydium\video.c
+	"index.h"
+	"headers/video.h"
+	"video.h"
+
+1304993364 g:\game\maniadrive\maniadrive_custom\raydium\raydium\web.c
+	"index.h"
+	"headers/web.h"
+	"web.h"
+
+1304955263 g:\game\maniadrive\maniadrive_custom\raydium\raydium\reg_api.c
+	"index.h"
+	"headers/reg_api.h"
+
+1307609896 g:\game\maniadrive\maniadrive_custom\raydium\mania.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\config.h
+	<alloca.h>
+	<ieeefp.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdarg.h>
+	<malloc.h>
+	<values.h>
+	<float.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\compatibility.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\common.h
+	<ode/config.h>
+	<ode/error.h>
+	<math.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\error.h
+	<ode/config.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\contact.h
+	<ode/common.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\memory.h
+	"ode/config.h"
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\odemath.h
+	<ode/common.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\matrix.h
+	<ode/common.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\timer.h
+	<ode/config.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\rotation.h
+	<ode/common.h>
+	<ode/compatibility.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\mass.h
+	<ode/common.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\misc.h
+	<ode/common.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\objects.h
+	<ode/common.h>
+	<ode/mass.h>
+	<ode/contact.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\odecpp.h
+	<ode/error.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\collision_space.h
+	<ode/common.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\collision.h
+	<ode/common.h>
+	<ode/collision_space.h>
+	<ode/contact.h>
+	"collision_trimesh.h"
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\collision_trimesh.h
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\odecpp_collision.h
+	<ode/error.h>
+
+1198904830 g:\game\maniadrive\maniadrive_custom\include\ode\include\ode\export-dif.h
+	<ode/common.h>
+
+1307606084 source:g:\game\maniadrive\maniadrive_custom\raydium\mania.cpp
+	<cstdio>
+	<cstring>
+	"mania.h"
+	"raydium/index.h"
+
+1307674417 source:g:\game\maniadrive\maniadrive_custom\raydium\mania2.cpp
+	"raydium/index.h"
+	"mania.h"
+

@@ -1,0 +1,297 @@
+# depslib dependency file v1.0
+1307066322 source:g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\database\pre_sqlite.cpp
+	"pre_sqlite.h"
+	"WinBase.h"
+	<stdio.h>
+	<tchar.h>
+	<string.h>
+	"utility.h"
+	<assert.h>
+
+1306927861 g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\database\pre_sqlite.h
+	"windows.h"
+	"WinNT.h"
+	"sqlite3.h"
+	<vector>
+	"../raydium/PreferenceModeling/globle.h"
+
+1303019642 g:\game\maniadrive\maniadrive_custom\include\sqlite3.h
+	<stdarg.h>
+
+1310388663 g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\globle.h
+	<time.h>
+
+1306378822 g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\utility.h
+	"windows.h"
+	"WinNT.h"
+
+1198433342 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\main.cpp
+	"main.h"
+
+1198433342 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\main.h
+	<windows.h>
+
+1307066818 source:g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\database\mysqlconnect.cpp
+	"MySqlConnect.h"
+	"../raydium/PreferenceModeling/utility.h"
+	<time.h>
+	<cstdio>
+	<vector>
+	<assert.h>
+
+1307066904 g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\database\mysqlconnect.h
+	<winsock.h>
+	"mysql.h"
+	"../../raydium/PreferenceModeling/globle.h"
+	<vector>
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql_version.h
+	<custom_conf.h>
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql_com.h
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql_time.h
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\my_list.h
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\typelib.h
+	"my_alloc.h"
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\my_alloc.h
+
+1307066322 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\pre_sqlite.cpp
+	"pre_sqlite.h"
+	"WinBase.h"
+	<stdio.h>
+	<tchar.h>
+	<string.h>
+	"utility.h"
+	<assert.h>
+
+1306927861 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\pre_sqlite.h
+	"windows.h"
+	"WinNT.h"
+	"sqlite3.h"
+	<vector>
+	"../raydium/PreferenceModeling/globle.h"
+
+1306378822 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\utility.h
+	"windows.h"
+	"WinNT.h"
+
+1306378799 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\utility.cpp
+	"globle.h"
+	"utility.h"
+	<cstring>
+
+1307066818 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\mysqlconnect.cpp
+	"MySqlConnect.h"
+	"../raydium/PreferenceModeling/utility.h"
+	<time.h>
+	<cstdio>
+	<vector>
+	<assert.h>
+
+1307066904 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\mysqlconnect.h
+	<winsock.h>
+	"mysql.h"
+	"../../raydium/PreferenceModeling/globle.h"
+	<vector>
+
+1307067777 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\pre_db.cpp
+	"pre_db.h"
+
+1318818245 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\pre_db.h
+	<windows.h>
+	"globle.h"
+	"include/MySQLSaver.h"
+	"include/SQLiteSaver.h"
+
+1307071651 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\private\mysqlconnect.cpp
+	"MySqlConnect.h"
+	"../raydium/PreferenceModeling/utility.h"
+	<time.h>
+	<cstdio>
+	<vector>
+	<assert.h>
+
+1307078357 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\private\mysqlconnect.h
+	<winsock.h>
+	"mysql.h"
+	"../../raydium/PreferenceModeling/globle.h"
+	<vector>
+	"../globle.h"
+
+1307066322 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\private\pre_sqlite.cpp
+	"pre_sqlite.h"
+	"WinBase.h"
+	<stdio.h>
+	<tchar.h>
+	<string.h>
+	"utility.h"
+	<assert.h>
+
+1307083568 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\private\pre_sqlite.h
+	"windows.h"
+	"WinNT.h"
+	"sqlite3.h"
+	<vector>
+	"../raydium/PreferenceModeling/globle.h"
+	"../globle.h"
+
+1306378822 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\private\utility.h
+	"windows.h"
+	"WinNT.h"
+
+1306378799 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\private\utility.cpp
+	"globle.h"
+	"utility.h"
+	<cstring>
+
+1318818129 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\globle.h
+
+1307083756 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\idbsaver.cpp
+	"IDBSaver.h"
+
+1318830774 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\idbsaver.h
+	"../globle.h"
+	"../raydium/PreferenceModeling/globle.h"
+	<vector>
+
+1307071651 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\mysqlconnect.cpp
+	"MySqlConnect.h"
+	"../raydium/PreferenceModeling/utility.h"
+	<time.h>
+	<cstdio>
+	<vector>
+	<assert.h>
+
+1307084555 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\mysqlconnect.h
+	<winsock.h>
+	"mysql.h"
+	<vector>
+	"IDBSaver.h"
+
+1307084092 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\pre_sqlite.cpp
+	"pre_sqlite.h"
+	"WinBase.h"
+	<stdio.h>
+	<tchar.h>
+	<string.h>
+	"utility.h"
+	<assert.h>
+	<algorithm>
+
+1307084806 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\pre_sqlite.h
+	"windows.h"
+	"WinNT.h"
+	"sqlite3.h"
+	<vector>
+	"IDBSaver.h"
+
+1310393503 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\utility.cpp
+	"globle.h"
+	"utility.h"
+	<cstring>
+
+1319706106 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\mysqlsaver.cpp
+	"MySQLSaver.h"
+	"../raydium/PreferenceModeling/utility.h"
+	<time.h>
+	<cstdio>
+	<vector>
+	<assert.h>
+	"pre_analyse/define.h"
+	"pre_analyse/include/COriAnalyserMgr.h"
+
+1319617439 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\mysqlsaver.h
+	<winsock.h>
+	<vector>
+	<string>
+	"mysql.h"
+	"IDBSaver.h"
+	"pre_analyse/define.h"
+
+1316427695 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\sqlitesaver.cpp
+	"SQLiteSaver.h"
+	"WinBase.h"
+	<stdio.h>
+	<tchar.h>
+	<string.h>
+	"utility.h"
+	<assert.h>
+	<algorithm>
+
+1316427401 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\sqlitesaver.h
+	"windows.h"
+	"WinNT.h"
+	"sqlite3.h"
+	<vector>
+	"IDBSaver.h"
+
+1307085331 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\idbloader.cpp
+	"IDBLoader.h"
+
+1318830774 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\idbloader.h
+	"../globle.h"
+	"../raydium/PreferenceModeling/globle.h"
+	<vector>
+	<string>
+
+1316427625 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\cdbtransformer.cpp
+	"../raydium/PreferenceModeling/globle.h"
+	"CDBTransformer.h"
+	<assert.h>
+	<vector>
+	<stdio.h>
+
+1318830774 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\cdbtransformer.h
+	"../globle.h"
+	"IDBLoader.h"
+	"IDBSaver.h"
+
+1316426753 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\src\csqliteloader.cpp
+	"CSQLiteLoader.h"
+	<assert.h>
+	<memory.h>
+	<cstdio>
+
+1316426638 g:\game\maniadrive\maniadrive_custom\tests\prelearn_db\include\csqliteloader.h
+	"IDBLoader.h"
+	"sqlite3.h"
+	<string>
+
+1319705604 g:\game\maniadrive\maniadrive_custom\include\pre_analyse\define.h
+	<string>
+
+1319421765 g:\game\maniadrive\maniadrive_custom\include\pre_analyse\include\corianalysermgr.h
+	<vector>
+	"IOriginalAnalyser.h"
+	"../define.h"
+	"CAnalyserMgr.h"
+
+1318478609 g:\game\maniadrive\maniadrive_custom\include\pre_analyse\include\ioriginalanalyser.h
+	"../../raydium/PreferenceModeling/globle.h"
+	"../func.h"
+	"../define.h"
+	<vector>
+
+1319509259 g:\game\maniadrive\maniadrive_custom\include\pre_analyse\func.h
+	<vector>
+	"define.h"
+
+1319421314 g:\game\maniadrive\maniadrive_custom\include\pre_analyse\include\canalysermgr.h
+	<vector>
+	"../define.h"
+

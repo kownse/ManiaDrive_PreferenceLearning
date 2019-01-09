@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1318238709 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\main.cpp
+	"pre_analyse.h"
+
+1198433342 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\main.h
+	<windows.h>
+
+1319706935 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\func.cpp
+	"func.h"
+	"define.h"
+	<math.h>
+	<limits>
+
+1319509259 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\func.h
+	<vector>
+	"define.h"
+
+1318405625 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\itimer.cpp
+	"../include/ITimer.h"
+
+1318412782 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\itimer.h
+	"ITimerListener.h"
+
+1318210859 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\cintrpttimer,.cpp
+	"../include/CIntrptTimer,.h"
+
+1318211446 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\cintrpttimer,.h
+	"../main.h"
+	"ITimer.h"
+
+1318412782 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\ccontintimer.cpp
+	"../include/CContinTimer.h"
+
+1318412781 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\ccontintimer.h
+	"../pre_analyse.h"
+	"ITimer.h"
+
+1318405275 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\itimerlistener.h
+
+1318209890 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\itimerlistener.cpp
+	"../include/ITimerListener.h"
+
+1318478609 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\ioriginalanalyser.cpp
+	"../include/IOriginalAnalyser.h"
+	<math.h>
+
+1318478609 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\ioriginalanalyser.h
+	"../../raydium/PreferenceModeling/globle.h"
+	"../func.h"
+	"../define.h"
+	<vector>
+
+1310388663 g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\globle.h
+	<time.h>
+
+1318214930 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\isequencerecorder.cpp
+	"../include/ISequenceRecorder.h"
+
+1318214910 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\isequencerecorder.h
+	<vector>
+
+1318940263 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\ccollisionanalyser.cpp
+	"../include/CCollisionAnalyser.h"
+	"../include/CIntrptTimer.h"
+	"../include/CContinTimer.h"
+	<stdio.h>
+	"../func.h"
+	"../define.h"
+
+1318490977 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\ccollisionanalyser.h
+	"ITimerListener.h"
+	"IOriginalAnalyser.h"
+	"ITimer.h"
+	"../define.h"
+	<vector>
+
+1318819705 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\cintrpttimer.h
+	"../pre_analyse.h"
+	"ITimer.h"
+
+1318415073 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\cintrpttimer.cpp
+	"../include/CIntrptTimer.h"
+
+1319595666 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\pre_analyse.h
+	<windows.h>
+	"include/COriAnalyserMgr.h"
+	"include/CTrackAnalyser.h"
+	"define.h"
+
+1319705604 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\define.h
+	<string>
+
+1319421765 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\corianalysermgr.h
+	<vector>
+	"IOriginalAnalyser.h"
+	"../define.h"
+	"CAnalyserMgr.h"
+
+1319421765 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\corianalysermgr.cpp
+	"../include/COriAnalyserMgr.h"
+	"../include/CCollisionAnalyser.h"
+	"../include/CUserInputAnalyser.h"
+	"../include/CAngleAnalyser.h"
+	"../include/CBasicAnalyser.h"
+	"../func.h"
+
+1318845415 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\cuserinputanalyser.cpp
+	"../include/CUserInputAnalyser.h"
+	"../define.h"
+	"../include/CIntrptTimer.h"
+	<stdio.h>
+
+1318491518 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\cuserinputanalyser.h
+	"ITimerListener.h"
+	"IOriginalAnalyser.h"
+	"ITimer.h"
+	"../define.h"
+	<vector>
+
+1318318020 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\irecorder.cpp
+	"../include/IRecorder.h"
+
+1318317998 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\irecorder.h
+
+1318318117 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\cvectorrecorder.cpp
+	"../include/CVectorRecorder.h"
+
+1318318155 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\cvectorrecorder.h
+	<vector>
+	"IRecorder.h"
+
+1318318254 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\crecordermgr.cpp
+	"../include/CRecorderMgr.h"
+
+1318321409 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\crecordermgr.h
+	<vector>
+	"IRecorder.h"
+
+1319707105 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\define.cpp
+	"define.h"
+	<limits>
+
+1318845415 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\cangleanalyser.cpp
+	<stdio.h>
+	<math.h>
+	"../include/CAngleAnalyser.h"
+	"../include/CIntrptTimer.h"
+	"../include/CContinTimer.h"
+	"../func.h"
+	"../define.h"
+
+1318476621 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\cangleanalyser.h
+	"ITimerListener.h"
+	"IOriginalAnalyser.h"
+	"ITimer.h"
+	"../define.h"
+	<vector>
+
+1318816438 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\cbasicanalyser.cpp
+	"../include/CBasicAnalyser.h"
+	<math.h>
+
+1318816306 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\cbasicanalyser.h
+	"IOriginalAnalyser.h"
+	"../define.h"
+	<vector>
+
+1319421314 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\canalysermgr.h
+	<vector>
+	"../define.h"
+
+1319613142 g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\include\ctrackanalyser.h
+	<vector>
+	"../define.h"
+	<string>
+
+1319618074 source:g:\game\maniadrive\maniadrive_custom\tests\prelearn_analyse\src\ctrackanalyser.cpp
+	"../include/CTrackAnalyser.h"
+	"../func.h"
+	<io.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

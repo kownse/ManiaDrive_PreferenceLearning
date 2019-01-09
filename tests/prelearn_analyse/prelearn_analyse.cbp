@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="prelearn_analyse" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Analyser\;Timer\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\prelearn_analyse" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin" />
+				<Option object_output="obj\Debug\" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-DBUILD_DLL" />
+					<Add directory="..\..\raydium\PreferenceModeling" />
+				</Compiler>
+				<Linker>
+					<Add library="user32" />
+				</Linker>
+				<ExtraCommands>
+					<Add after='xcopy /D /S /I /F /Y /R &quot;$(PROJECT_DIR)*.h&quot; &quot;..\..\include\pre_analyse\&quot;' />
+					<Add after='xcopy /D /S /I /F /Y /R &quot;$(PROJECT_DIR)bin\*.a&quot; &quot;..\..\lib\&quot;' />
+					<Add after='xcopy /D /S /I /F /Y /R &quot;$(PROJECT_DIR)bin\*.dll&quot; &quot;..\..\bin\&quot;' />
+					<Add after='xcopy /D /S /I /F /Y /R &quot;$(PROJECT_DIR)bin\*.dll&quot; &quot;.\&quot;' />
+				</ExtraCommands>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\prelearn_analyse" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="3" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Option createStaticLib="1" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add option="-DBUILD_DLL" />
+					<Add directory="..\..\raydium\PreferenceModeling" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="user32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="define.cpp" />
+		<Unit filename="define.h" />
+		<Unit filename="func.cpp" />
+		<Unit filename="func.h" />
+		<Unit filename="include\CAnalyserMgr.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CAngleAnalyser.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CBasicAnalyser.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CCollisionAnalyser.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CContinTimer.h">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="include\CIntrptTimer.h">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="include\COriAnalyserMgr.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CRecorderMgr.h" />
+		<Unit filename="include\CTrackAnalyser.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CUserInputAnalyser.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\CVectorRecorder.h" />
+		<Unit filename="include\IOriginalAnalyser.h">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="include\IRecorder.h" />
+		<Unit filename="include\ITimer.h">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="include\ITimerListener.h">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="pre_analyse.h" />
+		<Unit filename="src\CAngleAnalyser.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\CBasicAnalyser.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\CCollisionAnalyser.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\CContinTimer.cpp">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="src\CIntrptTimer.cpp">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="src\COriAnalyserMgr.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\CRecorderMgr.cpp" />
+		<Unit filename="src\CTrackAnalyser.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\CUserInputAnalyser.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\CVectorRecorder.cpp" />
+		<Unit filename="src\IOriginalAnalyser.cpp">
+			<Option virtualFolder="Analyser\" />
+		</Unit>
+		<Unit filename="src\IRecorder.cpp" />
+		<Unit filename="src\ITimer.cpp">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Unit filename="src\ITimerListener.cpp">
+			<Option virtualFolder="Timer\" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

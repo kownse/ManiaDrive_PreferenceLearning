@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\..\raydium\PreferenceModeling\globle.h" open="0" top="0" tabpos="0">
+		<Cursor position="2698" topLine="66" />
+	</File>
+	<File name="..\..\raydium\mania_server.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="4692" topLine="152" />
+	</File>
+	<File name="..\..\raydium\mania_server.h" open="0" top="0" tabpos="2">
+		<Cursor position="267" topLine="0" />
+	</File>
+	<File name="..\..\raydium\raydium\common.h" open="0" top="0" tabpos="0">
+		<Cursor position="1839" topLine="65" />
+	</File>
+	<File name="..\..\raydium\raydium\headers\sprites.h" open="0" top="0" tabpos="2">
+		<Cursor position="5065" topLine="155" />
+	</File>
+	<File name="..\..\raydium\raydium\index.h" open="0" top="0" tabpos="0">
+		<Cursor position="904" topLine="7" />
+	</File>
+	<File name="..\..\raydium\raydium\network.h" open="0" top="0" tabpos="0">
+		<Cursor position="1138" topLine="24" />
+	</File>
+</CodeBlocks_layout_file>

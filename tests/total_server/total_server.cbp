@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="total_server" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="..\..\bin\total_server" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\..\bin" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="raydiumd" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\total_server" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add directory="..\..\include" />
+			<Add directory="..\..\raydium" />
+			<Add directory="..\..\include\php\main" />
+			<Add directory="..\..\include\php" />
+			<Add directory="..\..\include\php\regex" />
+			<Add directory="..\..\include\php\TSRM" />
+			<Add directory="..\..\include\php\Zend" />
+			<Add directory="..\..\include\ode\include" />
+		</Compiler>
+		<Linker>
+			<Add library="php5ts" />
+			<Add library="mingwex" />
+			<Add library="stdc++" />
+			<Add library="intl" />
+			<Add library="AR" />
+			<Add library="ode" />
+			<Add library="opengl32" />
+			<Add library="gdi32" />
+			<Add library="glu32" />
+			<Add library="ws2_32" />
+			<Add library="jpeg" />
+			<Add library="libglew32" />
+			<Add library="openal32" />
+			<Add library="vorbisfile" />
+			<Add library="vorbis" />
+			<Add library="ogg" />
+			<Add library="winmm" />
+			<Add library="vfw32" />
+			<Add directory="..\..\lib" />
+			<Add directory="..\..\bin" />
+		</Linker>
+		<Unit filename="..\..\raydium\PreferenceModeling\CustomServer\total_server.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

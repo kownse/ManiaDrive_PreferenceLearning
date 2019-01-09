@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1318846803 source:g:\game\maniadrive\maniadrive_custom\tests\dbtransform\main.cpp
+	<iostream>
+	"pre_db/pre_db.h"
+	"pre_db/include/CDBTransformer.h"
+	"pre_db/include/CSQLiteLoader.h"
+	<string>
+	<io.h>
+	<stdio.h>
+
+1318818245 g:\game\maniadrive\maniadrive_custom\include\pre_db\pre_db.h
+	<windows.h>
+	"globle.h"
+	"include/MySQLSaver.h"
+	"include/SQLiteSaver.h"
+
+1318818129 g:\game\maniadrive\maniadrive_custom\include\pre_db\globle.h
+
+1319617439 g:\game\maniadrive\maniadrive_custom\include\pre_db\include\mysqlsaver.h
+	<winsock.h>
+	<vector>
+	<string>
+	"mysql.h"
+	"IDBSaver.h"
+	"pre_analyse/define.h"
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql_version.h
+	<custom_conf.h>
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql_com.h
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\mysql_time.h
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\my_list.h
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\typelib.h
+	"my_alloc.h"
+
+1250600940 g:\game\maniadrive\maniadrive_custom\include\mysql\my_alloc.h
+
+1318830774 g:\game\maniadrive\maniadrive_custom\include\pre_db\include\idbsaver.h
+	"../globle.h"
+	"../raydium/PreferenceModeling/globle.h"
+	<vector>
+
+1310388663 g:\game\maniadrive\maniadrive_custom\raydium\preferencemodeling\globle.h
+	<time.h>
+
+1316427401 g:\game\maniadrive\maniadrive_custom\include\pre_db\include\sqlitesaver.h
+	"windows.h"
+	"WinNT.h"
+	"sqlite3.h"
+	<vector>
+	"IDBSaver.h"
+
+1303019642 g:\game\maniadrive\maniadrive_custom\include\sqlite3.h
+	<stdarg.h>
+
+1318830774 g:\game\maniadrive\maniadrive_custom\include\pre_db\include\cdbtransformer.h
+	"../globle.h"
+	"IDBLoader.h"
+	"IDBSaver.h"
+
+1318830774 g:\game\maniadrive\maniadrive_custom\include\pre_db\include\idbloader.h
+	"../globle.h"
+	"../raydium/PreferenceModeling/globle.h"
+	<vector>
+	<string>
+
+1316426638 g:\game\maniadrive\maniadrive_custom\include\pre_db\include\csqliteloader.h
+	"IDBLoader.h"
+	"sqlite3.h"
+	<string>
+
+1319705604 g:\game\maniadrive\maniadrive_custom\include\pre_analyse\define.h
+	<string>
+
